@@ -5,3 +5,5 @@ I have worked with Jira for quite a while and really like it. As a Team Leader t
 
 I am a professional .NET developer specialising in C# so i wanted a .NET libray that utilised Jira's Rest API to ooen up the possibilities.
 
+## Resources
+(Jira .NET client manual] [https://kinetic-coder.github.io/jira.net.client/#]

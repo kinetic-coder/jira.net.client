@@ -7,6 +7,10 @@
 *.o
 *.obj
 
+# folders that are used for building
+bin/
+obj/
+
 # Precompiled Headers
 *.gch
 *.pch

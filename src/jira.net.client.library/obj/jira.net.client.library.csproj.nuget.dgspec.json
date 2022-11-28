@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/oliver/dev/jira.net.client/jira.net.client/src/jira.net.client.library/jira.net.client.library.csproj",
         "projectName": "jira.net.client.library",
         "projectPath": "/home/oliver/dev/jira.net.client/jira.net.client/src/jira.net.client.library/jira.net.client.library.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/oliver/.nuget/packages/",
         "outputPath": "/home/oliver/dev/jira.net.client/jira.net.client/src/jira.net.client.library/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/oliver/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

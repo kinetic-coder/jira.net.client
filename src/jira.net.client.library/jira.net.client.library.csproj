@@ -10,10 +10,14 @@
     <Description>A simple approach for .NET developers to interface with Jira.</Description>
     <Copyright>Oliver Bullock</Copyright>
     <PackageProjectUrl>https://kinetic-coder.github.io/jira.net.client/</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="https:\github.com\kinetic-coder\jira.net.client\blob\master\README.md" />
+    <None Include="..\..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
   <ItemGroup>

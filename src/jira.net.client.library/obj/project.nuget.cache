@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4zYMwYzvWRgYlMM4HK4tEVrFlHkzqswPtLDLkwPWACsqkZ2vM4uuwKd9ocy+OV1UPRG92d2qUhoL04wGZxsMCw==",
+  "dgSpecHash": "WHPpBFoYST6ByC7F/vU1Q6rO057wY5jMQKEZUzUTWVwYVBdF1DVhKM37vzCIMy0bC1jY8aHeGxumT4u6sHaGZA==",
   "success": true,
-  "projectFilePath": "/home/oliver/dev/jira.net.client/jira.net.client/src/jira.net.client.library/jira.net.client.library.csproj",
+  "projectFilePath": "C:\\dev\\jira.net.client\\src\\jira.net.client.library\\jira.net.client.library.csproj",
   "expectedPackageFiles": [
-    "/home/oliver/.nuget/packages/restsharp/108.0.2/restsharp.108.0.2.nupkg.sha512"
+    "C:\\Users\\oliver.bullock\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
   ],
   "logs": []
 }

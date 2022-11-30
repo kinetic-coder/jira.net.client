@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/oliver/dev/jira.net.client/jira.net.client/src/jira.net.client.library/jira.net.client.library.csproj": {}
+    "C:\\dev\\jira.net.client\\src\\jira.net.client.library\\jira.net.client.library.csproj": {}
   },
   "projects": {
-    "/home/oliver/dev/jira.net.client/jira.net.client/src/jira.net.client.library/jira.net.client.library.csproj": {
+    "C:\\dev\\jira.net.client\\src\\jira.net.client.library\\jira.net.client.library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oliver/dev/jira.net.client/jira.net.client/src/jira.net.client.library/jira.net.client.library.csproj",
+        "projectUniqueName": "C:\\dev\\jira.net.client\\src\\jira.net.client.library\\jira.net.client.library.csproj",
         "projectName": "jira.net.client.library",
-        "projectPath": "/home/oliver/dev/jira.net.client/jira.net.client/src/jira.net.client.library/jira.net.client.library.csproj",
-        "packagesPath": "/home/oliver/.nuget/packages/",
-        "outputPath": "/home/oliver/dev/jira.net.client/jira.net.client/src/jira.net.client.library/obj/",
+        "projectPath": "C:\\dev\\jira.net.client\\src\\jira.net.client.library\\jira.net.client.library.csproj",
+        "packagesPath": "C:\\Users\\oliver.bullock\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\jira.net.client\\src\\jira.net.client.library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/oliver/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\oliver.bullock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
